@@ -5,7 +5,7 @@
 > [<u>site</u>](https://medlartea.github.io/rpf-search/), [<u>video</u>](https://www.youtube.com/watch?v=fyoP0cN9jxM)
 
 <p align="center">
-<img src="cover.jpg" width="1200" alt="Description">
+<img src="cover.png" width="1200" alt="Description">
 </p>
 
 ## TODO
