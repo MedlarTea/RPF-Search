@@ -10,4 +10,4 @@
 
 ## TODO
 
-- [ ] Release codes of RPF-Search upon the paper is accepted.
+- [ ] Release codes of RPF-Search when the paper is accepted.
